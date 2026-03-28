@@ -3,8 +3,8 @@
 Developed the frontend using React with JSX components and CSS styling to build a structured and responsive user interface, this website consists of login, register, dashboard, add, edit, delete, view web pages...
 
 How to run:
-in one terminal cmd->npm start
-in another terminal cmd->npm run dev-> click on link (ctrl+ click on the link)
+in one terminal cmd->npm start,
+In another terminal cmd->npm run dev-> click on link (ctrl+ click on the link),
 output can be obtained through Chrome or Microsoft Edge
 
 
