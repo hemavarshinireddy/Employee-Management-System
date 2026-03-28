@@ -17,10 +17,10 @@ const ViewEmployeeById = () => {
     <fieldset className='Employee_Details'>
       <legend>Employee Details</legend>
       <div className='viewemployee_details'>
-      <p>Employee ID:1</p>
-      <p>Employee Name : Barbie</p>
-      <p>Employee Age:21</p>
-      <p>Employee Contact Email:Barbie@gmail.com</p>
+      <p>Employee ID:58d6</p>
+      <p>Employee Name : sita</p>
+      <p>Employee Age:23</p>
+      <p>Employee Contact Email:sita@gmail.com</p>
       <p>Employee Contact Number:6382845881</p>
       </div>
       <div className='viewemployee_buttons'>
